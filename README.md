@@ -1,7 +1,7 @@
 # account-api
 
 
-1. Create Account
+- **Create Account**
 
 Url:- localhost:8080/account/create
 
@@ -14,7 +14,7 @@ RequestData:-
 "balance":32  // optional
 }
 
-2. Credit Account
+- **Credit Account**
 
 Url:- localhost:8080/account/credit
 
@@ -27,7 +27,7 @@ RequestData:-
 "amount":32  
 }
 
-3. Debit Account
+- **Debit Account**
 
 Url:- localhost:8080/account/debit
 
@@ -41,7 +41,7 @@ RequestData:-
 }
 
 
-4. Get Account
+- **Get Account**
 
 Url:- localhost:8080/account/get?userId=5
 
